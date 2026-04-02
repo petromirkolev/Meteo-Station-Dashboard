@@ -1,4 +1,4 @@
-[![pages-build-deployment](https://github.com/petromirkolev/Meteo-Station-Dashboard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/petromirkolev/Meteo-Station-Dashboard/actions/workflows/pages/pages-build-deployment)
+[![Playwright Tests](https://github.com/petromirkolev/Meteo-Station-Dashboard/actions/workflows/playwright.yml/badge.svg)](https://github.com/petromirkolev/Meteo-Station-Dashboard/actions/workflows/playwright.yml)
 
 # Meteo Station Dashboard
 
