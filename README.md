@@ -1,3 +1,5 @@
+[![pages-build-deployment](https://github.com/petromirkolev/Meteo-Station-Dashboard/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/petromirkolev/Meteo-Station-Dashboard/actions/workflows/pages/pages-build-deployment)
+
 # Meteo Station Dashboard
 
 Real-time **Meteo + Comfort + Air/Noise** dashboard with **Replay Mode** (CI-safe, no hardware required).
